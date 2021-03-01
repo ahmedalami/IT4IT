@@ -1,3 +1,7 @@
+```
+This glossary is based on the excellent and complete flash cards from [quizlet](https://quizlet.com/550106034/it4it-foundation-flash-cards/)
+```
+
 <details>
     <summary>Value chain</summary>
 
