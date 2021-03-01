@@ -2,3 +2,5 @@ This repository provides preparation resources for the IT4IT Reference Architect
 
 * A distilled [content](index.md) ;
 * A [glossary](glossary.md).
+
+[IT4IT Mind Map](IT4IT.png "IT4IT Mind Map")
